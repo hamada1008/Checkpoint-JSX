@@ -7,9 +7,9 @@ export default function App() {
     <div className="App">
       <div style={{ border: "solid 1px black", maxWidth: "100vw" }}>
         <h1 className="title red">Your name here</h1>
-
+        <br />
         <img src={im} alt="source" />
-
+        <br />
         <img src="/imageInPublic.jpg" alt="public" />
       </div>
 
